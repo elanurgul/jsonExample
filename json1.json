@@ -1,0 +1,39 @@
+{
+  "Fakulteler": [
+    {
+      "Heading": "Muhendislik",
+      "Name": "Teknoloji Fakultesi",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image1.png"
+    },
+    {
+      "Heading": "F.Toker Güzel Sanatlar ve Tasarım Fakultesi",
+      "Name": "Ismail Rakip KARAS",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image2.png"
+    },
+    {
+      "Heading": "Muhendislik Fakultesi ",
+      "Name": " Mehmet OZALP",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image3.png"
+    },
+    {
+      "Heading": "Google",
+      "Detail": "Android is the best comprimise for mobile devices",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png"
+    },
+    {
+      "Heading": "IIBF",
+      "Name": "Abdullah KARAKAYA",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image5.jpg"
+    },
+    {
+      "Heading": "Edebiyat Fakultesi",
+      "Name": "Murat AGARI",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image6.jpg"
+    },
+    {
+      "Heading": "Fen Fakultesi",
+      "Name": "Yasin ARSLAN",
+      "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image7.png"
+    }
+  ]
+}
