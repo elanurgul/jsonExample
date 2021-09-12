@@ -1,0 +1,31 @@
+{
+  "bilgisayar":"BİLGİSAYARLAR",
+  "markalar":[
+    {"id":1,"name":"MONSTER","price":6500},
+    {"id":2,"name":"APPLE","price":9000},
+    {"id":3,"name":"LENOVA","price":5000},
+    {"id":4,"name":"ASUS","price":6000},
+    {"id":5,"name":"HP","price":4000},
+    {"id":6,"name":"MSI","price":10000},
+    {"id":7,"name":"ACER","price":6500}
+    
+    ],
+    "modeller":[
+      {"model":"Abra A5 V18.1","markaID":1,"active":"true"},
+      {"model":"MacBook Air","markaID":2,"active":"true"},
+      {"model":"ThinkPad","markaID":3,"active":"true"},
+      {"model":"Zenbook 14 UX435","markaID":4,"active":"true"},
+      {"model":"15-DW3014NT","markaID":5,"active":"true"},
+      {"model":"Creator 15","markaID":6,"active":"true"},
+      {"model":"Chromebook 514","markaID":1,"active":"true"}
+      ],
+      "özellikler":[
+        {"ssd":512,"ram":16,"markaID":1},
+        {"ssd":216,"ram":8,"markaID":2},
+        {"ssd":256,"ram":8,"markaID":3},
+        {"ssd":512,"ram":8,"markaID":4},
+        {"ssd":256,"ram":16,"markaID":5},
+        {"ssd":512,"ram":16,"markaID":6},
+        {"ssd":512,"ram":16,"markaID":7}
+        ]
+}
